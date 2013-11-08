@@ -493,7 +493,7 @@
 				GCC_PREFIX_HEADER = "Decoupled/Decoupled-Prefix.pch";
 				GCC_THUMB_SUPPORT = NO;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
-				INFOPLIST_FILE = "Decopuled/Decoupled-Info.plist";
+				INFOPLIST_FILE = "Decoupled/Decoupled-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				PRODUCT_NAME = Decoupled;
 				PROVISIONING_PROFILE = "";
